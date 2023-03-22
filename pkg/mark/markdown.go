@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	bf "github.com/kovetskiy/blackfriday/v2"
-	"github.com/kovetskiy/mark/pkg/mark/stdlib"
+	"github.com/lucasoskorep/mark/pkg/mark/stdlib"
 	"github.com/reconquest/pkg/log"
 )
 

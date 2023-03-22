@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"github.com/kovetskiy/mark/pkg/confluence"
+	"github.com/lucasoskorep/mark/pkg/confluence"
 	"github.com/reconquest/karma-go"
 	"github.com/reconquest/pkg/log"
 )
